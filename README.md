@@ -82,6 +82,6 @@ Infrastructure upgrades in high-risk zones
 Seasonal road safety planning
 Data-backed policymaking
 
-This is how the dashboard looks like:
+This is how the dashboard looks like: https://github.com/ullaskrishna1/Road-Accident-Dashboard/blob/main/Road%20Accident%20Analysis%20Dashboard.PNG 
 
 
