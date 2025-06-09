@@ -13,8 +13,6 @@ This project also serves as a demonstration of my ability to:
 Clean and preprocess raw government data
 Design intuitive and informative BI dashboards
 Draw actionable insights from large datasets
-Leverage Power BI’s DAX language, slicers, and visual hierarchy to create dynamic reports
-
 
 📊 Key Performance Indicators (KPIs)
 
@@ -76,7 +74,7 @@ Accident hotspots were concentrated in urban locations, particularly in high-den
 There was no significant YoY improvement, indicating a need for deeper interventions.
 
 ✅ Conclusion
-This Power BI dashboard provides a visual framework to monitor and analyze road safety patterns across the UK. It can support:
+This Tableau dashboard provides a visual framework to monitor and analyze road safety patterns across the UK. It can support:
 Public safety campaigns and awareness efforts
 Infrastructure upgrades in high-risk zones
 Seasonal road safety planning
