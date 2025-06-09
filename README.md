@@ -1,7 +1,7 @@
 # Road Accident Dashboard – Tableau Project
 
 📊 Overview
-This Power BI dashboard project presents a comprehensive and interactive visualization of road accidents that occurred across the UK. The analysis leverages a dataset comprising various features like accident severity (Fatal, Serious, Slight), number of casualties, weather conditions, light and road surface conditions, location data (latitude/longitude), and vehicle types involved.
+This Tableau project presents a comprehensive and interactive visualization of road accidents that occurred across the UK. The analysis leverages a dataset comprising various features like accident severity (Fatal, Serious, Slight), number of casualties, weather conditions, light and road surface conditions, location data (latitude/longitude), and vehicle types involved.
 
 The dashboard is designed to help stakeholders such as transportation authorities, safety analysts, urban planners, and policy-makers Identify risk-prone areas based on high accident density using geospatial mapping.
 Assess how weather and road surface conditions influence accident frequency and severity, with special focus on slight casualties which are more frequent and often preventable.
